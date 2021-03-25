@@ -5,7 +5,7 @@
 #define max_int (255)
 #define byte unsigned byte unsigned char 
 
-int main (argc, char * argv[], char ** envp) {
+int main (int argc, char * argv[], char ** envp) {
    int count = 10;
    int sum = 0;
    int quotient;
